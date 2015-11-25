@@ -1,0 +1,1 @@
+copy objects\mylib.lib ..\mylib-%1.lib
